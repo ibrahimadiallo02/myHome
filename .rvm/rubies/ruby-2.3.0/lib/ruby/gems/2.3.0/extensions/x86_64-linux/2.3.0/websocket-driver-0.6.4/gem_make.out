@@ -1,0 +1,15 @@
+current directory: /home/nitrous/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+/home/nitrous/.rvm/rubies/ruby-2.3.0/bin/ruby -r ./siteconf20160709-18843-3p8q72.rb extconf.rb
+creating Makefile
+
+current directory: /home/nitrous/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/nitrous/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/nitrous/.rvm/rubies/ruby-2.3.0/lib/ruby/gems/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -m 0755 websocket_mask.so ./.gem.20160709-18843-f2qvxo
