@@ -17,6 +17,8 @@
 /tmp
 
 #IDI Ignorer ces nouveaux fichiers
+log/*.log
+*.log
 doc/
 *.swp
 *~
